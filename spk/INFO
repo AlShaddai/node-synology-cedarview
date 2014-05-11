@@ -1,0 +1,15 @@
+package="Config File Editor"
+displayname="Config File Editor"
+version="1.4"
+maintainer="Remco Schellekens"
+description="Utility to edit the various config files on DiskStations"
+distributor="merty"
+distributor_url="http://www.mertymade.com/"
+support_url="http://www.mertymade.com/syno/"
+arch="noarch"
+startable="yes"
+firmware="3.2-1922"
+install_dep_packages="Perl"
+dsmuidir="CFE"
+dsmappname=SYNO.SDS.ConfigFileEditor.Application
+
